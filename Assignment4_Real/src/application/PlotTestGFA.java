@@ -41,10 +41,5 @@ public class PlotTestGFA {
 		assertEquals("3,4,4,3",plot5.toString());	
 	}
 	
-//	@Test
-//	public void testEncompass() {
-//		assertTrue(outsidePlot.encompasses(insidePlot));
-//	}
-	
 
 }
